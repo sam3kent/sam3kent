@@ -1,6 +1,6 @@
-#### A Little Bit About Me
+## A Little Bit About Me
 
-## Nice to Meet You...
+#### Nice to Meet You...
 
 ```
 class Greetings {
@@ -21,7 +21,7 @@ Besides those, my current hobbies include:
 - Movies
 - Skateboarding(just for cruising sake)
 
-## My Programming
+#### My Programming
 
 As a programmer, I try to write the most efficient code I can but I think
 I still have ways to go. I'm always open to hearing about ways to speed up my code
