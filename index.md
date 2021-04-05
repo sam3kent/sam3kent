@@ -31,6 +31,7 @@ working on problems from the [Euler Project](https://projecteuler.net/archives),
 heard of this, I highly suggest it. In terms of doing projects, I try to plan out what I'm going 
 to do at least a little bit but most of my projects have followed more in the words of *Hermann Goering* 
 > Shoot first and ask questions later...
+
 When I run into problems in the **ask questions later** portion, I'm a big fan of drawing things 
 out and running tests.
 As of right now, the languages I know well from most favorite to least:
